@@ -4,14 +4,14 @@ A comprehensive Quiz System built with React.js featuring multiple pages, quiz c
 
 ## Features
 
-- 🎯 **Multiple Choice Questions** - Answer questions with multiple options
-- ⏱️ **Timer Based** - Challenge yourself with time-limited quizzes
-- 📊 **Detailed Results** - View your score and review all answers
-- 📝 **Create Your Own** - Build custom quizzes with your own questions
-- 🏆 **Score Tracking** - See your performance and track progress
-- 🎨 **Beautiful UI** - Modern and intuitive user interface
-- 🔍 **Search & Filter** - Find quizzes by category or search term
-- 📱 **Responsive Design** - Works on desktop, tablet, and mobile devices
+-  **Multiple Choice Questions** - Answer questions with multiple options
+-  **Timer Based** - Challenge yourself with time-limited quizzes
+-  **Detailed Results** - View your score and review all answers
+-  **Create Your Own** - Build custom quizzes with your own questions
+-  **Score Tracking** - See your performance and track progress
+-  **Beautiful UI** - Modern and intuitive user interface
+-  **Search & Filter** - Find quizzes by category or search term
+-  **Responsive Design** - Works on desktop, tablet, and mobile devices
 
 ## Pages
 
